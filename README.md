@@ -1,4 +1,4 @@
-# Static-website-using-AWS-Amplify-and-Route-53
+# Host-Static-website-using-AWS-Amplify-and-Route-53
 
 **AWS Amplify and AWS Route53 to help us push our static website and host our static website**
 
