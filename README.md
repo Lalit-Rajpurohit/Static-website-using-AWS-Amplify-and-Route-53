@@ -2,6 +2,9 @@
 
 **AWS Amplify and AWS Route53 to help us push our static website and host our static website**
 
+![Blank diagram](https://github.com/user-attachments/assets/9122a840-f730-4df8-b855-eafe98eb3f9e)
+
+
 Services::
 <ul>
 <li> AWS Route53 </li>
